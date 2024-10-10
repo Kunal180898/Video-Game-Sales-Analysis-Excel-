@@ -1,0 +1,65 @@
+Sales Insights:
+
+What are the top-selling games globally? Identify games that have achieved the highest global sales.
+
+Which platform generates the most sales? Compare platforms based on their global sales to see which platform performs best.
+
+How do sales differ by region (North America, Europe, Japan, Other)? Analyze regional sales performance to identify which regions are more profitable for certain games or platforms.
+
+What are the top publishers by sales? Determine which publishers are the most successful in terms of total global sales.
+
+Which genres perform best globally and regionally? Explore the most popular game genres and how their popularity varies across different regions.
+
+How do sales vary by year? Investigate trends over time to see if the video game industry is growing or declining in terms of sales.
+
+How do sales differ between earlier and more recent games? Examine whether older games still hold value or if recent releases dominate the charts.
+
+
+Platform and Genre Insights:
+
+Which platform is the most successful for certain genres?
+Analyze which platforms host the top-selling games for different genres (e.g., sports games on Wii, RPGs on PlayStation).
+
+Is there a correlation between a game's platform and its global success?
+Explore if certain platforms contribute to higher global sales.
+
+How do publishers’ performance differ across different platforms?
+Analyze if certain publishers dominate specific platforms in terms of sales.
+
+
+Yearly and Regional Trends:
+
+How has the number of game releases changed over time?
+Check if the industry is becoming more or less productive in terms of game releases.
+
+Which year saw the highest overall sales, and which games contributed to it?
+Identify standout years for the industry and the games that boosted sales.
+
+What trends are visible when comparing regional sales over time?
+See if certain regions show consistent growth in gaming, while others remain stagnant or decline.
+
+Dashboard Structure:
+To make your dashboard informative and visually engaging, consider these sections:
+
+Overview Section
+
+KPIs (Key Performance Indicators): Highlight top-selling games, best platforms, and best-performing publishers.
+Global Sales Overview: A summary of total sales by region and genre.
+Sales by Region
+
+Regional breakdown of sales (North America, Europe, Japan, Other).
+A chart showing the performance of different platforms in each region.
+Sales Trends Over Time
+
+A line chart or bar chart showing total sales across years.
+Drill-down option to see sales by platform or genre over time.
+Top 10 Games / Publishers / Platforms
+
+A list or visual comparison of the top 10 games, publishers, and platforms based on total sales.
+Genre Comparison
+
+A pie chart or bar chart comparing the popularity of different genres globally and regionally.
+Insights Summary Section
+
+Key takeaways from your analysis: most popular games, best platforms for each region, trends over time, and any interesting patterns.
+This structure will allow you to display meaningful insights and comparisons, while also making it easy for viewers to digest the data. When you’re ready to move on to charts and graphs, feel free to ask!
